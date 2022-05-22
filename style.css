@@ -1,0 +1,42 @@
+h2 {
+    padding-left: 2%;
+    border-bottom: 2pt solid rgb(182, 182, 182);
+}
+
+p {
+    padding-left: 2%;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    padding-left: 25%;
+    padding-right: 25%;
+    background-image: url(Images/bg800bulbs.jpg);
+}
+
+#navigation_image_logo_lightbulb {
+    height:30pt;
+    width: 30pt;
+}
+
+section {
+    padding-bottom: 7%;
+}
+
+#solar_panel_image {
+    float: right;
+    padding-left: 35pt;
+    padding-right: 2%;
+}
+
+#geothermal_image {
+    float: right;
+    padding-left: 35pt;
+    padding-right: 2%;
+}
+
+#turbine_image {
+    float: right;
+    padding-left: 35pt;
+    padding-right: 2%;
+}
